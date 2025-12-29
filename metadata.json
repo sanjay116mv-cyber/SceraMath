@@ -1,0 +1,7 @@
+{
+  "name": "SceraMath",
+  "description": "A math-only intelligent problem solver featuring LaTeX rendering, step-by-step logical solutions, and a minimal Perplexity-style dark interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
